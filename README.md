@@ -1,9 +1,9 @@
 # Data analysis project for the fictional company Cyclistic, using real public data from the city of Chicago.
 
-In this repository, you will find the file named "bicyles-data-analysis.ipynb", which details the analysis performed on the aforementioned bicycle data. The scenario proposed for this problem is described below. 
+In this repository, you will find the file named [bicyles-data-analysis.ipynb](bicyles-data-analysis.ipynb), which details the analysis performed on the aforementioned bicycle data. The scenario proposed for this problem is described below. 
 Although the file extension is **.ipynb**, the entire analysis was conducted in **R** using the Kaggle platform.  
 
-You can access the analysis here: [Kaggle Notebook](https://www.kaggle.com/code/abelr27/bicycles-data-analysis/edit)
+You can also access the analysis here: [Kaggle Notebook](https://www.kaggle.com/code/abelr27/bicycles-data-analysis/edit)
 # Scenario  
 
 You are a junior data analyst working on the marketing analytics team at Cyclistic, a bike-sharing company in Chicago. The marketing director believes that the company's future success depends on maximizing the number of annual memberships. Therefore, your team aims to understand the differences in how casual riders and annual members use Cyclistic bikes. With these insights, your team will design a new marketing strategy to convert casual riders into annual members. However, before proceeding, Cyclistic executives must approve your recommendations; thus, you need to support your proposal with a compelling data-driven analysis and professional visualizations.  
