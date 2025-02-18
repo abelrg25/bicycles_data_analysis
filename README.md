@@ -1,6 +1,6 @@
 # Data analysis project for the fictional company Cyclistic, using real public data from the city of Chicago.
 
-In this repository, you will find the file named [bicyles-data-analysis.ipynb](bicyles-data-analysis.ipynb), which details the analysis performed on the aforementioned bicycle data. The scenario proposed for this problem is described below. 
+In this repository, you will find the file named [bicyles-data-analysis.ipynb](bicycles-data-analysis.ipynb), which details the analysis performed on the aforementioned bicycle data. The scenario proposed for this problem is described below. 
 Although the file extension is **.ipynb**, the entire analysis was conducted in **R** using the Kaggle platform.  
 
 You can also access the analysis here: [Kaggle Notebook](https://www.kaggle.com/code/abelr27/bicycles-data-analysis/edit)
