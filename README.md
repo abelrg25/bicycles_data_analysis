@@ -1,7 +1,7 @@
 # Data analysis project for the fictional company Cyclistic, using real public data from the city of Chicago.
 
 The [bicyles-data-analysis.ipynb](bicycles-data-analysis.ipynb) file contains the analysis performed on the 2024 bicycle data. The scenario proposed for this problem is described below. 
-N.B. Although the file extension is **.ipynb**, the entire analysis was conducted in **R** using the Kaggle platform. The notebook and the data can be found here: [Kaggle Notebook](https://www.kaggle.com/code/abelr27/bicycles-data-analysis/edit)
+N.B. Although the file extension is **.ipynb**, the entire analysis was conducted in **R** using the Kaggle platform. The notebook and the data can be found here: [Kaggle Notebook](https://www.kaggle.com/code/abelr27/bicycles-data-analysis)
 
 # Scenario  
 
